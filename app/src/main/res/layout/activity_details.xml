@@ -35,7 +35,7 @@
             android:layout_height="200dp"
             android:contentDescription="@string/a11y_ad_item_image"
             android:scaleType="centerCrop"
-            app:imageFromUrl="@{ad.image_urls_thumbnails[0]}"
+            app:imageFromUrl="@{ad.image_urls[0]}"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/toolbar" />
