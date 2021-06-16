@@ -1,0 +1,19 @@
+
+<resources>
+
+    <!-- To see how these attributes are used, please visit https://material.io/develop/android/theming/color/ -->
+    <style name="Base.Theme.Dubizzle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dubizzle_green_500</item>
+        <item name="colorOnPrimary">@color/dubizzle_yellow_500</item>
+        <item name="colorPrimaryDark">@color/dubizzle_green_700</item>
+        <item name="colorOnSurface">@color/dubizzle_black</item>
+        <item name="colorAccent">@color/dubizzle_green_700</item>
+        <item name="colorSurface">@color/dubizzle_gray_50</item>
+        <item name="colorSecondary">@color/dubizzle_yellow_500</item>
+        <item name="android:colorBackground">@color/dubizzle_green_500</item>
+    </style>
+
+    <style name="Theme.Dubizzle" parent="Base.Theme.Dubizzle"/>
+
+
+</resources>

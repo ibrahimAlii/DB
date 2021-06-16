@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="Base.Theme.Dubizzle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dubizzle_green_900</item>
+        <item name="colorOnPrimary">@color/dubizzle_yellow_300</item>
+        <item name="colorPrimaryDark">@color/dubizzle_gray_50_a600</item>
+        <item name="colorOnSurface">@color/dubizzle_white</item>
+        <item name="colorAccent">@color/dubizzle_green_300</item>
+        <item name="colorSurface">@color/dubizzle_green_900</item>
+        <item name="colorSecondary">@color/dubizzle_yellow_300</item>
+        <item name="android:colorBackground">@color/dubizzle_green_900</item>
+    </style>
+
+    <style name="Theme.Dubizzle" parent="Base.Theme.Dubizzle"/>
+
+
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="dubizzle_black">#de000000</color>
+    <color name="dubizzle_gray_50">#fafafa</color>
+    <color name="dubizzle_gray_50_a600">#99fafafa</color>
+    <color name="dubizzle_green_300">#009688</color>
+    <color name="dubizzle_green_500">#8BC34A</color>
+    <color name="dubizzle_green_700">#005d2b</color>
+    <color name="dubizzle_green_900">#1a231e</color>
+    <color name="dubizzle_white">#deffffff</color>
+    <color name="dubizzle_yellow_300">#f8f99f</color>
+    <color name="dubizzle_yellow_500">#ffff63</color>
+</resources>
